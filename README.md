@@ -26,5 +26,3 @@ You can reach out to me via:
 ## 🚀 My GitHub Stats
 
 <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logmar98&layout=compact"/>
-
-![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=logmar98&show_icons=true&theme=radical)
