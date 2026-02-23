@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! I'm Marouane, a software engineering student at 1337 (42 Network) transitioning from front-end development into systems programming, DevOps, and cloud infrastructure. Here you'll find a collection of my projects, ranging from early web development to low-level C programming, Python automation, and system administration.
 
+<p align="left">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/mrbib" alt="logmar98's 42 stats" />
+  </a>
+</p>
+
 ## 💻 Tech Stack & Tools
 
 <p align="left">
@@ -36,7 +42,6 @@ You can reach out to me via:
 
 - **Email**: marwanarbib15@gmail.com
 - **LinkedIn**: [linkedin.com/in/marwanarbib](https://www.linkedin.com/in/marouane-rbib-85054b221/)
-- **Website**: [marwanarbib.wordpress.com](https://marwanarbib.wordpress.com/)
 
 ## 🚀 My GitHub Stats
 
