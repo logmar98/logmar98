@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Marwan Arbib, a front-end developer passionate
 
 I'm constantly expanding my knowledge in the front end, learning more frameworks like React. Currently, I'm diving deep into the back end to get more into the web development field.
 
-## 👯 I’m looking to collaborate on
+## 🏗️ I’m looking to collaborate on
 
 I'm open to collaborating on projects related to web development. If you have an interesting project in mind, feel free to reach out!
 
