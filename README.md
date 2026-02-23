@@ -1,27 +1,30 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Marwan Arbib, a front-end developer passionate about making productivity websites. Here you'll find a collection of my projects, ranging from websites made with only frontend skills to some websites that are made with full-stack skills, and beyond!
+Welcome to my GitHub profile! I'm Marouane, a software engineering student at 1337 (42 Network) transitioning from front-end development into systems programming, DevOps, and cloud infrastructure. Here you'll find a collection of my projects, ranging from early web development to low-level C programming, Python automation, and system administration.
 
 ## 🔭 I’m currently working on
 
-- [library_books]: a tracking system for your books reading more visually.
+- **42 Common Core Projects**: Tackling rigorous systems programming, algorithmic challenges like `push_swap`, and virtual machine setups like `Born2beroot`.
 
 ## 🌱 I’m currently learning
 
-I'm constantly expanding my knowledge in the front end, learning more frameworks like React. Currently, I'm diving deep into the back end to get more into the web development field.
+While I have a background in the front end, my major goal for 2026 is to master DevOps and Cloud technologies. Currently, I'm diving deep into:
+- Linux systems administration and shell scripting
+- Docker containerization and networking
+- Advanced Python and C programming
 
 ## 🏗️ I’m looking to collaborate on
 
-I'm open to collaborating on projects related to web development. If you have an interesting project in mind, feel free to reach out!
+I'm open to collaborating on projects related to cloud infrastructure, DevOps tooling, Python automation, or open-source C projects. If you have an interesting project in mind, feel free to reach out!
 
 ## 📫 How to reach me
 
 You can reach out to me via:
 
-- Email: marwanarbib15@gmail.com
-- LinkedIn: [www.linkedin.com/in/marwanarbib/](www.linkedin.com/in/marwanarbib/)
-- Twitter: [twitter.com/marwan_arbib](twitter.com/marwan_arbib)
-- Website: [marwanarbib.wordpress.com/](marwanarbib.wordpress.com/)
+- **Email**: marwanarbib15@gmail.com
+- **LinkedIn**: [linkedin.com/in/marwanarbib](https://www.linkedin.com/in/marwanarbib/)
+- **Twitter**: [twitter.com/marwan_arbib](https://twitter.com/marwan_arbib)
+- **Website**: [marwanarbib.wordpress.com](https://marwanarbib.wordpress.com/)
 
 ## 🚀 My GitHub Stats
 
