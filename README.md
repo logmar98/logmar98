@@ -22,8 +22,7 @@ I'm open to collaborating on projects related to cloud infrastructure, DevOps to
 You can reach out to me via:
 
 - **Email**: marwanarbib15@gmail.com
-- **LinkedIn**: [linkedin.com/in/marwanarbib](https://www.linkedin.com/in/marwanarbib/)
-- **Twitter**: [twitter.com/marwan_arbib](https://twitter.com/marwan_arbib)
+- **LinkedIn**: [linkedin.com/in/marwanarbib](https://www.linkedin.com/in/marouane-rbib-85054b221/)
 - **Website**: [marwanarbib.wordpress.com](https://marwanarbib.wordpress.com/)
 
 ## 🚀 My GitHub Stats
