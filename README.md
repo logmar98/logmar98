@@ -2,6 +2,19 @@
 
 Welcome to my GitHub profile! I'm Marouane, a software engineering student at 1337 (42 Network) transitioning from front-end development into systems programming, DevOps, and cloud infrastructure. Here you'll find a collection of my projects, ranging from early web development to low-level C programming, Python automation, and system administration.
 
+## 💻 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
 ## 🔭 I’m currently working on
 
 - **42 Common Core Projects**: Tackling rigorous systems programming, algorithmic challenges like `push_swap`, and virtual machine setups like `Born2beroot`.
@@ -27,4 +40,20 @@ You can reach out to me via:
 
 ## 🚀 My GitHub Stats
 
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logmar98&layout=compact"/>
+## 🚀 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=logmar98&label=Profile%20Views&color=00599C&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/logmar98">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=logmar98&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/logmar98">
+    <img src="https://github-readme-stats.vercel.app/api?username=logmar98&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats Card" />
+  </a>
+</p>
